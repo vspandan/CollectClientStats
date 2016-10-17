@@ -1,0 +1,9 @@
+<clients>
+    <client ip="127.0.0.1" mail="spandan.veggalam@gmail.com" username="spand_000"
+        port="22" password="Spandan@1005">
+        <alert limit="20%" type="memory"/>
+        <alert limit="20%" type="cpu"/>
+        <alert limit="20%" type="disk usage"/>
+    </client>
+    
+</clients>
